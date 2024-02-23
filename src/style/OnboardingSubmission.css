@@ -1,0 +1,42 @@
+.OnboardingMain-Container
+{
+    margin: 0;
+    padding: 0;
+}
+
+.OnboardingSub-Title
+{
+    width: 50%;
+    margin: 30px 25%;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.OnboardingSubmission-form-box
+{
+    background-color: #effaff;
+    height: 50vh;
+    width: 50%;
+    margin: 15px 25%;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.OnboardingSubmission-form-box p
+{
+    padding: 20%;
+}
+
+.OBSubmission-next-btn
+{
+    background-color: #00338E;
+    color: white;
+    margin: 0px 44%;
+    font-size: 16px;
+    border: none;
+    border-radius: 16px;
+    width: 150px;
+    height: 30px;
+    justify-self: center;
+}
